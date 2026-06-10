@@ -35,7 +35,7 @@ Student passionate about software development, embedded systems, and IoT. Experi
 ### 📝 Featured Projects
 - [**IoT Integration for Automobiles**](https://github.com/RonsJose/IOT-PROJECT)
 - [**Workout Tracking Service**](https://github.com/RonsJose/Workout-Calorie-Tracker)
-- [**Login ServiceZX**](https://github.com/RonsJose/LoginService)
+- [**Login Service**](https://github.com/RonsJose/LoginService)
 
 ---
 
