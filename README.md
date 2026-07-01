@@ -42,8 +42,10 @@ Student passionate about software development, embedded systems, and IoT. Experi
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonsJose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RonsJose&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+
+<img src="https://github-stats-extended.vercel.app/api?username=RonsJose&hide=stars,issues,contribs&show=prs_merged_percentage&show_icons=true&theme=dark" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RonsJose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
@@ -81,5 +83,3 @@ Student passionate about software development, embedded systems, and IoT. Experi
   <img width="12" />
   <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="40" alt="postgres"  />
 </div>
-
-###
